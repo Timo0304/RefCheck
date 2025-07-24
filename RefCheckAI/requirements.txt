@@ -1,0 +1,12 @@
+requests
+fuzzywuzzy
+python-Levenshtein
+biopython
+fuzzywuzzy
+python-Levenshtein
+requests
+PyMuPDF
+docx
+openai
+streamlit
+exceptions
