@@ -9,4 +9,3 @@ PyMuPDF
 docx
 openai
 streamlit
-exceptions
