@@ -6,6 +6,6 @@ fuzzywuzzy
 python-Levenshtein
 requests
 PyMuPDF
-docx
+python-docx
 openai
 streamlit
